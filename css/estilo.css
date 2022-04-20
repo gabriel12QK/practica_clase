@@ -31,6 +31,12 @@ li{
 li:hover{
   background:rgb(236, 229, 131);
 }
+#pie {
+  padding: 15px;
+  background-color: rgb(80, 80, 80);
+  text-align: center;
+  font-size: 14pt;
+}
 
 
 
