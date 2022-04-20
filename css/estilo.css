@@ -19,5 +19,20 @@ h2 {
   padding: 15px;
   border: 1px black solid;
 }
+#menu{
+  background-color: gray;
+}
+li{
+  display: inline-block;
+  background-color: gray;
+  padding: 10px;
+  font: bold 14px verdana;
+}
+li:hover{
+  background:rgb(236, 229, 131);
+}
+
+
+
 
 
