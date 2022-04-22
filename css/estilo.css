@@ -36,7 +36,26 @@ li:hover{
   background-color: rgb(80, 80, 80);
   text-align: center;
   font-size: 14pt;
+  margin-top: 30px;
+
 }
+#seccion{
+  width: 65%;
+  background-color: rgb(128, 127, 127);
+  padding: 3px;
+  margin: 20px;
+  display: inline-block;
+  font: bold 14px verdana;
+}
+#columna{
+
+  float: right;
+  width: 25%;
+  height: 50px;
+  background-color: darkgrey;
+  margin: 20px;
+}
+
 
 
 
